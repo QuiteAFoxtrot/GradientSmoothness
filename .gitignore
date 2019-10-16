@@ -1,0 +1,8 @@
+.*
+*.pyc
+*.c
+*.html
+*__pycache__*
+build/*
+dist/*
+MANIFEST*
